@@ -30,3 +30,6 @@ git clone https://github.com/your-username/tripadvisor-clone.git
 Navigate to the project directory:
 cd tripadvisor-clone
 Open index.html in your browser to view the website.
+Navigate to the project directory:
+cd tripadvisor-clone
+Open index.html in your browser to view the website.
